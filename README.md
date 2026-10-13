@@ -1,4 +1,4 @@
-<h1 align="center">全国高校奶龙域名合集</h1>
+
 
 <p align="center">
   <img src="assets/banners/hero.png" width="100%" alt="全国高校奶龙域名合集：黄色绿眼睛双奶龙骑乘，交叠处大范围马赛克，无校徽">
