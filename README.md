@@ -188,3 +188,13 @@
 ## 中国澳门
 
 暂无收录
+
+---
+
+## 相关项目
+
+[**nailong-university**](https://github.com/Enderman112/nailong-university) —— 奶龙大学跳转页生成器。
+
+给一张校徽 + 一张奶龙图，就能生成「打开域名先显示奶龙页、约 2.6 秒后跳到学校官网」的过场页，
+并附带一套 AI 可直接照着做的 Cloudflare Pages 部署与「拆掉旧 301」手册。
+本表里的 [中国奶龙大学.org](https://中国奶龙大学.org/) 就是这么做的。
