@@ -74,7 +74,7 @@
 
 | 学校 | 域名 |
 | --- | --- |
-| 大连理工大学 | [世界奶龙大学.com](https://世界奶龙大学.com/)<br>[奶龙学院.com](https://奶龙学院.com/)<br>[中国奶龙大学.com](https://中国奶龙大学.com/) |
+| 大连理工大学 | [世界奶龙大学.com](https://世界奶龙大学.com/)<br>[奶龙学院.com](https://奶龙学院.com/)<br>[中国奶龙大学.com](https://中国奶龙大学.com/)<br>[nailong.dykey.net](https://nailong.dykey.net/) |
 | 东北大学 | [世界奶蛙大学.com](https://世界奶蛙大学.com/) |
 | 辽宁师范大学 | [奶龙师范大学.com](https://奶龙师范大学.com/) |
 | 辽宁大学 | [辽宁奶龙大学.com](https://辽宁奶龙大学.com/) |
@@ -123,11 +123,10 @@
 | 学校 | 域名 |
 | --- | --- |
 | 南京航空航天大学 | [南京奶龙大学.com](https://南京奶龙大学.com/) |
-| 南京传媒学院 | [中国奶蛙大学.com](https://中国奶蛙大学.com/) |
 | 东南大学 | [江苏奶龙大学.com](https://江苏奶龙大学.com/)<br>[奶龙工学院.com](https://奶龙工学院.com/) |
 | 南京工业大学 | [南京奶蛙大学.cn](https://南京奶蛙大学.cn/)<br>[金陵奶龙大学.cn](https://金陵奶龙大学.cn/) |
 | 南京农业大学 | [南京奶蛙大学.com](https://南京奶蛙大学.com/) |
-| 中国矿业大学 | [中国奶蛙大学.site](https://中国奶蛙大学.site/) |
+| 中国矿业大学 | [中国奶蛙大学.site](https://中国奶蛙大学.site/)<br>[中国奶蛙大学.com](https://中国奶蛙大学.com/) |
 | 西交利物浦大学 | [zgnldx.com](https://zgnldx.com/)<br>[zgnlu.com](https://zgnlu.com/)<br>[苏州奶龙大学.com](https://苏州奶龙大学.com/) |
 | 江南大学 | [华东奶龙大学.com](https://华东奶龙大学.com/) |
 
