@@ -299,3 +299,7 @@
 </p>
 
 **欢迎提交 PR，参与奶龙学科建设。** 如需补充域名或更正信息，欢迎直接提交 [Pull Request](https://github.com/liyouran0820/nailong-university-domains/pulls)。
+
+### 特别鸣谢
+
+感谢 [Hej28](https://github.com/Hej28) 对奶龙学科建设与学术平台美化的大力支持，为全球奶龙高等教育共同体贡献了不可忽视的抽象力量。
