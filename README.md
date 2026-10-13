@@ -97,9 +97,6 @@
 | 哈尔滨工程大学 | [奶蛙学院.com](https://奶蛙学院.com/) |
 | 哈尔滨工业大学 | [哈尔滨奶龙大学.com](https://哈尔滨奶龙大学.com/) |
 
-<p align="center">
-  <img src="assets/banners/navigation.png" width="100%" alt="绿眼睛奶龙学术导航">
-</p>
 
 <a id="上海市"></a>
 
@@ -177,9 +174,6 @@
 | --- | --- |
 | 郑州大学 | [河南奶龙大学.com](https://河南奶龙大学.com/) |
 
-<p align="center">
-  <img src="assets/banners/academic-exchange.png" width="100%" alt="奶龙学术交流现场，双龙交叠处已打码">
-</p>
 
 <a id="湖北省"></a>
 
@@ -236,9 +230,6 @@
 | 西南财经大学 | [西南奶龙大学.com](https://西南奶龙大学.com/)（异常） |
 | 四川大学 | [四川奶龙大学.cn](https://四川奶龙大学.cn/) |
 
-<p align="center">
-  <img src="assets/banners/navigation.png" width="100%" alt="绿眼睛奶龙学术导航">
-</p>
 
 <a id="陕西省"></a>
 
@@ -283,9 +274,6 @@
 
 暂无收录
 
-<p align="center">
-  <img src="assets/banners/academic-exchange.png" width="100%" alt="奶龙学术交流现场，双龙交叠处已打码">
-</p>
 
 ## 🔗 相关项目
 
