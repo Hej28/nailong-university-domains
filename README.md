@@ -97,9 +97,6 @@
 | 哈尔滨工程大学 | [奶蛙学院.com](https://奶蛙学院.com/) |
 | 哈尔滨工业大学 | [哈尔滨奶龙大学.com](https://哈尔滨奶龙大学.com/) |
 
-<p align="center">
-  <img src="assets/banners/navigation.png" width="100%" alt="绿眼睛奶龙学术导航">
-</p>
 
 <a id="上海市"></a>
 
